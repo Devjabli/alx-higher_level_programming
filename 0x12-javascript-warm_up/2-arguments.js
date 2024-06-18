@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 
 const argc = process.argv.length
 const checkArgc = 'Argument' + (argc > 3 ? 's' : '') + ' found';
