@@ -1,6 +1,6 @@
 #!/usr/bin/node
 /**
- * Represents a rectangle class with width and height attributes
+ * Representing the rectangle class with w and h attributes
  */
 class Rectangle {
   constructor (w, h) {
