@@ -1,16 +1,16 @@
 #!/usr/bin/python3
 """
-This script lists all states with
-a `name` starting with the letter `N`
-from the database `hbtn_0e_0_usa`.
+This script retrieves all states from 
+the hbtn_0e_0_usa database where the name begins with the letter N.
 """
 
 import MySQLdb as db
 from sys import argv
 
 """
-Access to the database and get the states
-from the database.
+his script connects to the hbtn_0e_0_usa
+database and retrieves all states 
+with a name starting with the letter N. 
 """
 
 if __name__ == '__main__':
