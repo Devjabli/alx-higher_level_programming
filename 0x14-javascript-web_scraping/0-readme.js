@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-// importing fs module for file system operations
+// Importing fs module for file system operations
 const fs = require('fs');
 
 // Getting the filename from the command line args
